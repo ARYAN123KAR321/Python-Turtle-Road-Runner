@@ -14,6 +14,7 @@ Ensure you have Python installed (preferably version 3.x). Then, clone the repos
 ```sh
 # Clone the repository
 [git clone https://github.com/yourusername/turtle-crossing-game.git](https://github.com/ARYAN123KAR321/Python-Turtle-Road-Runner.git)
+cd Python-Turtle-Road-Runner
 
 # Run the game
 python main.py
